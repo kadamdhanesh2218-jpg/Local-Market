@@ -1,0 +1,11 @@
+{
+  "name": "localmarket-workspace",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "npm run dev --prefix localmarket",
+    "build": "npm run build --prefix localmarket",
+    "start": "npm run start --prefix localmarket",
+    "lint": "npm run lint --prefix localmarket"
+  }
+}
